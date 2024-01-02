@@ -1,7 +1,5 @@
-#EXTINF:-1,DEP ES | Eurosport 1 HD ES
-http://home-playtv.com:8080/RMVBU/HZSEP/47435
-#EXTINF:-1,DEP ES | Eurosport 2 HD ES
-http://home-playtv.com:8080/RMVBU/HZSEP/47437
+#EXTINF:-1,Eurosport 2 HD (HK)
+http://89.187.167.92:80/live.ts?channelId=102&deviceUser=jeff1&devicePass=jeff1&uid=21890
 
 #EXTINF:-1,BT SPORT 1 (UK)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20821
