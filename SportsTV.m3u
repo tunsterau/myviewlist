@@ -10,6 +10,10 @@ https://6oclock.xyz:8443/Tyrone43147/My3boys/20820
 http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports2.m3u8
 #EXTINF:-1,TS 3 (UK)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20819
+#EXTINF:-1,JADE
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1,PEARL
+http://50.7.238.114:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 #EXTINF:-1,T - News
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1,VTV6
@@ -22,5 +26,3 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1,RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1,JADE
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
