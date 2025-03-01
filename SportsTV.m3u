@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-1,ES 1 - 1 (UK)
+http://localiptv.site:85/Avanger2024Disc/kB88PnzcQBUf/768
 #EXTINF:-1,ES 2 - 1 (UK)
-http://89.187.167.92:80/live.ts?channelId=102&deviceUser=alex1234&devicePass=alex1234&uid=21890
+http://localiptv.site:85/Avanger2024Disc/kB88PnzcQBUf/769
 #EXTINF:-1,TS 1 - 1 (UK)
 http://obsfullhd.tv:25461/live/zizo1804/2BS8EGAJhJHSOSDHFILSDHFLKSDHF/1425.ts
 #EXTINF:-1,TS 1 - 2 (UK)
